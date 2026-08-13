@@ -1,4 +1,4 @@
-# Hi, I'm Suby 👋
+# Hi, I'm Subramanian 👋
 
 ## Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power BI
 
