@@ -4,7 +4,7 @@
 Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power BI | Tableau | Alteryx
 </h3>
 
-I like working with data and figuring out better ways to move, transform, and make sense of it. I use tools like Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx, and this portfolio is where I share some of the projects I've built along the way.
+I like working with **data** and figuring out better ways to **move, transform, and make sense of it**. I use tools like **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**, and this portfolio is where I share some of the **projects I've built along the way**.
 
 ---
 
