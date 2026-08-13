@@ -10,7 +10,7 @@ My portfolio demonstrates practical implementations of **Microsoft Fabric Data P
 
 ## 🚀 Featured Projects
 
-### Microsoft Fabric End-to-End Data Engineering
+### [Microsoft Fabric End-to-End Data Engineering](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
 
 A metadata-driven ingestion framework built in Microsoft Fabric featuring:
 
@@ -27,7 +27,7 @@ A metadata-driven ingestion framework built in Microsoft Fabric featuring:
 
 ---
 
-### Microsoft Fabric Medallion Architecture
+### [Microsoft Fabric Medallion Architecture](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
 
 End-to-end Lakehouse implementation demonstrating:
 
@@ -41,8 +41,7 @@ End-to-end Lakehouse implementation demonstrating:
 
 ---
 
-### Microsoft Fabric + dbt
-
+### [Microsoft Fabric + dbt](https://github.com/s-suby/fabric-dbt)
 Data transformation project demonstrating:
 
 - Microsoft Fabric
@@ -56,7 +55,7 @@ Data transformation project demonstrating:
 
 ---
 
-### Microsoft Fabric Data Engineering — Control Flow
+### [Microsoft Fabric Data Engineering — Control Flow](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
 
 A consolidated collection of Fabric pipeline fundamentals covering:
 
