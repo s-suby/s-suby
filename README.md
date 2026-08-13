@@ -1,6 +1,12 @@
-# Hi, I'm Subramanian 👋
+<h1 align="center">Hi 👋, I'm Subramanian</h1>
 
-## Analytics Engineer| Microsoft Fabric| PySpark| SQL| Delta Lake| dbt| Power BI| Tableau| Alteryx
+<h3 align="center">
+Analytics Engineer | Microsoft Fabric • PySpark • SQL • Delta Lake • dbt • Power BI • Tableau • Alteryx
+</h3>
+
+<p align="center">
+Building scalable, reliable and analytics-ready data solutions on the Microsoft data platform.
+</p>
 
 I build end-to-end data engineering solutions using the Microsoft data platform, with a focus on scalable ingestion, Lakehouse architecture, data transformation, and analytics.
 
