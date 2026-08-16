@@ -43,7 +43,7 @@ End-to-end **Bronze → Silver → Gold** Lakehouse architecture covering ingest
 ### 🔄 [Microsoft Fabric + dbt](https://github.com/s-suby/fabric-dbt)
 **Microsoft Fabric · dbt · SQL · Power BI**
 
-Analytics engineering project demonstrating **SQL transformations, data modelling, testing, documentation, and Power BI integration**.
+Analytics engineering project demonstrating **.DBT SQL transformations, data modelling, testing, documentation, and Power BI integration**.
 
 ---
 
