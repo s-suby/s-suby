@@ -8,105 +8,63 @@ I like working with **data** and figuring out better ways to **move, transform, 
 
 ---
 
-## 🚀 Featured Projects
+<h1 align="left">Hi 👋, I'm Subramanian</h1>
 
-### [Microsoft Fabric End-to-End Data Engineering](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
+### Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power BI
 
-A metadata-driven ingestion framework built in Microsoft Fabric featuring:
-
-- Parent-child pipeline architecture
-- Dynamic metadata-driven orchestration
-- Full and incremental loading
-- Source-file validation and error handling
-- PySpark incremental processing
-- Delta MERGE
-- Watermark management
-- Idempotent pipeline execution
-
-**Repository:** `microsoft-fabric-end-to-end-data-engineering`
+I build end-to-end data and analytics solutions — from **ingestion and Lakehouse architecture** to **data modelling, transformation, and BI reporting**.
 
 ---
 
-### [Microsoft Fabric Medallion Architecture](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
+## 🛠️ Tech Stack
 
-End-to-end Lakehouse implementation demonstrating:
-
-- Bronze, Silver, and Gold architecture
-- Data ingestion and transformation
-- Lakehouse design
-- PySpark processing
-- Analytics-ready data modelling
-
-**Repository:** `Medallion-Architecture-Using-Microsoft-Fabric`
+**Data Engineering:** `Microsoft Fabric` `PySpark` `SQL` `Delta Lake` `Lakehouse` `ETL/ELT`  
+**Transformation:** `dbt` `Python` `SQL`  
+**Orchestration:** `Fabric Data Pipelines` `Metadata-Driven Pipelines` `Incremental Loading`  
+**Analytics & BI:** `Power BI` `DAX` `Tableau` `Alteryx`  
+**Development:** `Git` `GitHub`
 
 ---
 
-### [Microsoft Fabric + dbt](https://github.com/s-suby/fabric-dbt)
-Data transformation project demonstrating:
+## 🚀 Projects
 
-- Microsoft Fabric
-- dbt
-- SQL transformations
-- Data modelling
-- Testing and documentation
-- Power BI integration
+### 🏦 [BankPulse — Retail Banking Analytics](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
+**Microsoft Fabric · Power BI · DAX · Lakehouse · Data Pipelines**
 
-**Repository:** `fabric-dbt`
+End-to-end retail banking analytics solution covering **Fabric ingestion, Lakehouse storage, semantic modelling, time-intelligence DAX, and an interactive executive Power BI dashboard**.
 
 ---
 
-### [Microsoft Fabric Data Engineering — Control Flow](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
+### ⚙️ [Microsoft Fabric End-to-End Data Engineering](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
+**Microsoft Fabric · PySpark · Delta Lake · Data Pipelines**
 
-A consolidated collection of Fabric pipeline fundamentals covering:
-
-- Copy Data
-- Lookup
-- Get Metadata
-- Set Variable
-- Append Variable
-- Pipeline control-flow concepts
-
-**Repository:** `microsoft-fabric-data-engineering-control-flow`
+Metadata-driven ingestion framework with **parent-child pipelines, full/incremental loading, validation, Delta MERGE, watermarking, and idempotent execution**.
 
 ---
 
-## 🛠️ Technical Skills
+### 🏗️ [Microsoft Fabric Medallion Architecture](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
+**Microsoft Fabric · PySpark · Delta Lake · Lakehouse**
 
-**Analytics Engineer /Data Analyst**
-
-`Microsoft Fabric` `PySpark` `SQL` `Delta Lake` `Lakehouse` `ETL/ELT`
-
-**Orchestration**
-
-`Fabric Data Pipelines` `Metadata-Driven Pipelines` `Incremental Loading` `Watermarking`
-
-**Data Architecture**
-
-`Medallion Architecture` `Delta Lake` `Data Modelling`
-
-**Transformation & Analytics**
-
-`dbt` `Power BI` `SQL`
-
-**Development**
-
-`Python` `Git` `GitHub`
+End-to-end **Bronze → Silver → Gold** Lakehouse architecture covering ingestion, transformation, and analytics-ready modelling.
 
 ---
 
-## 📌 Current Focus
+### 🔄 [Microsoft Fabric + dbt](https://github.com/s-suby/fabric-dbt)
+**Microsoft Fabric · dbt · SQL · Power BI**
 
-Building production-style data engineering projects with a focus on:
-
-- Reusable pipeline architecture
-- Metadata-driven ingestion
-- Incremental data processing
-- Lakehouse architecture
-- Data quality and reliability
-- Analytics-ready data models
+Analytics engineering project demonstrating **SQL transformations, data modelling, testing, documentation, and Power BI integration**.
 
 ---
 
-## 📂 Explore My Work
+### 🔀 [Microsoft Fabric Data Engineering — Control Flow](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
+**Microsoft Fabric · Data Factory · Data Pipelines**
 
-Check out my pinned repositories below for complete project documentation, architecture diagrams, implementation screenshots, sample data, and source code.
+Fabric pipeline fundamentals covering **Copy Data, Lookup, Get Metadata, variables, and pipeline control-flow patterns**.
+
+---
+
+## 🎯 Current Focus
+
+Building production-style **Microsoft Fabric data and analytics solutions** with a focus on reusable pipelines, incremental processing, Lakehouse architecture, semantic modelling, and Power BI.
+
+📌 **Explore my pinned repositories below for architecture, implementation screenshots, documentation, and source code.**
