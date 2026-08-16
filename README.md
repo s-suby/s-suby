@@ -7,15 +7,6 @@ Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power
 I like working with **data** and figuring out better ways to **move, transform, and make sense of it**. I use tools like **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**, and this portfolio is where I share some of the **projects I've built along the way**.
 
 ---
-
-<h1 align="left">Hi 👋, I'm Subramanian</h1>
-
-### Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power BI
-
-I build end-to-end data and analytics solutions — from **ingestion and Lakehouse architecture** to **data modelling, transformation, and BI reporting**.
-
----
-
 ## 🛠️ Tech Stack
 
 **Data Engineering:** `Microsoft Fabric` `PySpark` `SQL` `Delta Lake` `Lakehouse` `ETL/ELT`  
@@ -28,7 +19,7 @@ I build end-to-end data and analytics solutions — from **ingestion and Lakehou
 
 ## 🚀 Projects
 
-### 🏦 [BankPulse — Retail Banking Analytics](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
+### 🏦 [Microsoft Fabric - Power BI - BankPulse Retail Banking Analytics](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
 **Microsoft Fabric · Power BI · DAX · Lakehouse · Data Pipelines**
 
 End-to-end retail banking analytics solution covering **Fabric ingestion, Lakehouse storage, semantic modelling, time-intelligence DAX, and an interactive executive Power BI dashboard**.
