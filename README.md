@@ -7,250 +7,96 @@ Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power
 I like working with **data** and figuring out better ways to **move, transform, and make sense of it**. I use tools like **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**, and this portfolio is where I share some of the **projects I've built along the way**.
 
 **Core Stack:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `dbt` · `Power BI` · `DAX` · `Tableau` · `Alteryx` · `Python`
-
----
-
 ## 🚀 Microsoft Fabric Projects
-
-### 🏦 [Microsoft Fabric — BankPulse Analytics](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
-**Focus:** End-to-End Banking Analytics · Semantic Modelling · Power BI
-
-### ⚙️ [Microsoft Fabric — End-to-End Data Engineering](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
-**Focus:** Metadata-Driven Ingestion · Incremental Processing · PySpark · Delta Lake
-
-### 🏗️ [Microsoft Fabric — Medallion Architecture](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
-**Focus:** Lakehouse Architecture · Bronze → Silver → Gold · PySpark
-
-### 🔄 [Microsoft Fabric — dbt Analytics Engineering](https://github.com/s-suby/fabric-dbt)
-**Focus:** dbt · SQL Transformation · Data Modelling · Power BI
-
-### 🔀 [Microsoft Fabric — Data Engineering Control Flow](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
-**Focus:** Fabric Data Pipelines · Orchestration · Dynamic Control Flow
-
----
+🏦 [**Microsoft Fabric — BankPulse Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Semantic Model · Power BI  
+⚙️ [**Microsoft Fabric — End-to-End Data Engineering**](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering) — Metadata-Driven Ingestion · PySpark · Delta Lake  
+🏗️ [**Microsoft Fabric — Medallion Architecture**](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric) — Bronze · Silver · Gold · Lakehouse  
+🔄 [**Microsoft Fabric — dbt Analytics Engineering**](https://github.com/s-suby/fabric-dbt) — dbt · SQL · Data Modelling  
+🔀 [**Microsoft Fabric — Data Engineering Control Flow**](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow) — Data Pipelines · Orchestration · Control Flow
 
 ## 🧰 Technology Stack
-
-**Data Engineering**  
-`Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `Lakehouse` · `ETL/ELT`
-
-**Data Architecture**  
-`Lakehouse Architecture` · `Medallion Architecture` · `Delta Tables` · `Data Modelling`
-
-**Data Transformation**  
-`dbt` · `PySpark` · `SQL` · `Power Query` · `Alteryx`
-
-**Data Orchestration**  
-`Fabric Data Pipelines` · `Metadata-Driven Pipelines` · `Incremental Loading` · `Watermarking`
-
-**Analytics & Business Intelligence**  
-`Power BI` · `DAX` · `Semantic Models` · `Tableau` · `Alteryx`
-
-**Development**  
-`Python` · `Git` · `GitHub`
+**Data Engineering:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `Lakehouse`  
+**Transformation:** `dbt` · `PySpark` · `SQL` · `Power Query` · `Alteryx`  
+**Orchestration:** `Fabric Data Pipelines` · `Metadata-Driven Pipelines` · `Incremental Loading`  
+**Analytics & BI:** `Power BI` · `DAX` · `Tableau` · `Alteryx`  
+**Development:** `Python` · `Git` · `GitHub`
 
 ---
 
-# 🔍 Project Details
+## 🔍 Project Details
 
-## 🏦 Microsoft Fabric — BankPulse Analytics
+### 🏦 Microsoft Fabric — BankPulse Analytics
+End-to-end **retail banking analytics solution** from source ingestion to executive Power BI reporting.
 
-An end-to-end **retail banking analytics solution** built to demonstrate how banking data can move from source ingestion through Microsoft Fabric into an executive Power BI reporting layer.
+**Main Components:** Fabric Data Pipelines · Fabric Lakehouse · Banking Data Ingestion · Customers, Accounts, Transactions & Loans · Semantic Model · Data Modelling · KPI Framework · Power BI Dashboard
 
-### Main Components
-
-- Microsoft Fabric Data Pipelines
-- Fabric Lakehouse
-- Banking data ingestion
-- Customer, Account, Transaction & Loan datasets
-- Power BI semantic model
-- Data modelling & relationships
-- Time-based performance analysis
-- Executive KPI framework
-- Interactive Power BI dashboard
-- Customer, account & transaction analytics
-
-**Architecture**
-
-`Source Data → Fabric Pipeline → Lakehouse → Semantic Model → Power BI`
-
-**Technology**
-
-`Microsoft Fabric` · `Lakehouse` · `Data Pipelines` · `Power BI` · `DAX`
-
-[Explore Microsoft Fabric — BankPulse Analytics](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
+**Architecture:** `Source → Fabric Pipeline → Lakehouse → Semantic Model → Power BI`  
+**Stack:** `Microsoft Fabric` · `Lakehouse` · `Data Pipelines` · `Power BI` · `DAX`  
+[Explore Project](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
 
 ---
 
-## ⚙️ Microsoft Fabric — End-to-End Data Engineering
+### ⚙️ Microsoft Fabric — End-to-End Data Engineering
+Production-style **metadata-driven ingestion framework** designed for reusable and scalable data processing.
 
-A production-style data engineering solution demonstrating how a **metadata-driven ingestion framework** can be used to build reusable and scalable data pipelines.
+**Main Components:** Parent-Child Pipelines · Metadata-Driven Ingestion · Dynamic Processing · Full & Incremental Loads · Data Validation · Error Handling · PySpark · Delta Lake · Watermarking
 
-### Main Components
-
-- Microsoft Fabric Data Pipelines
-- Parent-child pipeline architecture
-- Metadata-driven ingestion
-- Dynamic pipeline processing
-- Full data loads
-- Incremental data loads
-- Data validation & error handling
-- PySpark processing
-- Delta Lake
-- Watermark management
-- Reusable ingestion framework
-
-**Architecture**
-
-`Source → Metadata-Driven Pipelines → PySpark → Delta Lake`
-
-**Technology**
-
-`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Data Pipelines`
-
-[Explore Microsoft Fabric — End-to-End Data Engineering](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
+**Architecture:** `Source → Metadata-Driven Pipelines → PySpark → Delta Lake`  
+**Stack:** `Microsoft Fabric` · `PySpark` · `Delta Lake` · `Data Pipelines`  
+[Explore Project](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
 
 ---
 
-## 🏗️ Microsoft Fabric — Medallion Architecture
+### 🏗️ Microsoft Fabric — Medallion Architecture
+End-to-end Lakehouse solution implementing the **Bronze → Silver → Gold** architecture pattern.
 
-An end-to-end Lakehouse implementation demonstrating how data can be progressively refined through **Bronze, Silver, and Gold layers**.
+**Main Components:** Fabric Lakehouse · Bronze Layer · Silver Layer · Gold Layer · Data Ingestion · Data Transformation · PySpark · Delta Lake · Data Quality · Analytics-Ready Datasets
 
-### Main Components
-
-- Microsoft Fabric Lakehouse
-- Bronze raw-data layer
-- Silver transformation layer
-- Gold analytics layer
-- Data ingestion
-- Data cleansing & transformation
-- PySpark processing
-- Delta Lake
-- Data quality
-- Analytics-ready datasets
-
-**Architecture**
-
-`Source → Bronze → Silver → Gold → Analytics`
-
-**Technology**
-
-`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Lakehouse`
-
-[Explore Microsoft Fabric — Medallion Architecture](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
+**Architecture:** `Source → Bronze → Silver → Gold → Analytics`  
+**Stack:** `Microsoft Fabric` · `PySpark` · `Delta Lake` · `Lakehouse`  
+[Explore Project](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
 
 ---
 
-## 🔄 Microsoft Fabric — dbt Analytics Engineering
+### 🔄 Microsoft Fabric — dbt Analytics Engineering
+Analytics engineering solution combining **Microsoft Fabric and dbt** for modular and testable transformations.
 
-An analytics engineering project combining **Microsoft Fabric and dbt** to build structured, reusable, tested, and documented transformation workflows.
+**Main Components:** dbt · SQL Transformations · Source Models · Staging Models · Transformation Models · Data Modelling · Testing · Documentation · Power BI Integration
 
-### Main Components
-
-- Microsoft Fabric
-- dbt
-- SQL transformations
-- Source models
-- Staging models
-- Transformation models
-- Data modelling
-- Data testing
-- Data documentation
-- Analytics-ready datasets
-- Power BI integration
-
-**Architecture**
-
-`Microsoft Fabric → dbt → Transformation → Data Models → Power BI`
-
-**Technology**
-
-`Microsoft Fabric` · `dbt` · `SQL` · `Power BI`
-
-[Explore Microsoft Fabric — dbt Analytics Engineering](https://github.com/s-suby/fabric-dbt)
+**Architecture:** `Microsoft Fabric → dbt → Transformation → Data Models → Power BI`  
+**Stack:** `Microsoft Fabric` · `dbt` · `SQL` · `Power BI`  
+[Explore Project](https://github.com/s-suby/fabric-dbt)
 
 ---
 
-## 🔀 Microsoft Fabric — Data Engineering Control Flow
+### 🔀 Microsoft Fabric — Data Engineering Control Flow
+Practical implementation of the **core orchestration patterns** used to build Microsoft Fabric data pipelines.
 
-A practical Microsoft Fabric project demonstrating the **pipeline activities and orchestration concepts** used as building blocks for larger data engineering solutions.
+**Main Components:** Copy Data · Lookup · Get Metadata · Variables · Parameters · Dynamic Expressions · Activity Dependencies · Pipeline Orchestration
 
-### Main Components
-
-- Microsoft Fabric Data Pipelines
-- Copy Data
-- Lookup
-- Get Metadata
-- Variables
-- Pipeline parameters
-- Dynamic expressions
-- Activity dependencies
-- Pipeline orchestration
-- Control-flow concepts
-
-**Architecture**
-
-`Source → Pipeline Control Flow → Data Processing → Destination`
-
-**Technology**
-
-`Microsoft Fabric` · `Data Factory` · `Data Pipelines` · `ETL/ELT`
-
-[Explore Microsoft Fabric — Data Engineering Control Flow](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
+**Architecture:** `Source → Pipeline Control Flow → Data Processing → Destination`  
+**Stack:** `Microsoft Fabric` · `Data Factory` · `Data Pipelines` · `ETL/ELT`  
+[Explore Project](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
 
 ---
 
 ## 🎯 Engineering & Analytics Focus
 
-My projects focus on building practical data solutions across the **engineering, transformation, modelling, and analytics lifecycle**.
+**Data Engineering** — Metadata-driven ingestion · Incremental loading · PySpark processing · Delta Lake · Reusable pipeline design
 
-### Data Engineering
-- Designing reusable and parameter-driven data pipelines
-- Building metadata-driven ingestion frameworks
-- Developing full and incremental loading patterns
-- Implementing scalable PySpark transformations
-- Working with Delta Lake and Lakehouse storage
+**Data Architecture** — Fabric Lakehouse · Medallion Architecture · Bronze/Silver/Gold layers · Analytics-ready datasets
 
-### Data Architecture
-- Designing Microsoft Fabric Lakehouse solutions
-- Implementing Bronze, Silver & Gold Medallion architectures
-- Structuring raw, transformed, and analytics-ready data layers
-- Building maintainable and scalable data processing patterns
+**Analytics Engineering** — dbt · SQL transformations · Data testing · Documentation · Reusable analytical models
 
-### Analytics Engineering
-- Building modular SQL transformations with dbt
-- Developing staging and analytical data models
-- Applying data quality checks and testing
-- Creating documented and reusable transformation workflows
-- Preparing trusted datasets for downstream analytics
+**Data Modelling & BI** — Semantic models · KPI design · DAX · Power BI · Executive reporting · Business insights
 
-### Data Modelling & Business Intelligence
-- Designing analytical and semantic data models
-- Building business-focused KPI frameworks
-- Developing time-based and comparative analysis
-- Creating interactive Power BI dashboards
-- Translating engineered data into decision-ready insights
+**Pipeline Orchestration** — Fabric Data Pipelines · Parameters · Metadata · Parent-child pipelines · Dynamic processing
 
-### Pipeline Orchestration
-- Building Fabric Data Pipelines
-- Working with parameters, metadata, variables, and control flow
-- Designing parent-child pipeline patterns
-- Automating repeatable ingestion and processing workflows
-- Developing maintainable orchestration patterns
-
-### Analytics & Visualisation
-- Power BI dashboard development
-- DAX and analytical calculations
-- Tableau visual analytics
-- Alteryx data preparation and analytics workflows
-- Executive reporting and KPI visualisation
+**Analytics & Visualisation** — Power BI · Tableau · Alteryx · Dashboard design · KPI visualisation
 
 ---
 
 ## 📌 Portfolio
-
-This portfolio demonstrates work across the complete analytics lifecycle:
-
 `Ingestion → Orchestration → Lakehouse → Transformation → Data Modelling → Semantic Layer → Business Intelligence`
 
-Explore the projects above for **architecture diagrams, pipeline implementations, notebooks, technical documentation, data models, screenshots, dashboards, and source code**.
+Explore the repositories above for **architecture, pipelines, notebooks, documentation, data models, dashboards, screenshots, and source code**.
