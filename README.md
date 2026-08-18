@@ -8,7 +8,7 @@ I like working with **data** and figuring out better ways to **move, transform, 
 
 **Core Stack:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `dbt` · `Power BI` · `DAX` · `Tableau` · `Alteryx` · `Python`
 ## 🚀 Microsoft Fabric Projects
-🏦 [**Microsoft Fabric — BankPulse Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Semantic Model · Power BI  
+🏦 [**Microsoft Fabric — Retail Bank Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Semantic Model · Power BI  
 ⚙️ [**Microsoft Fabric — End-to-End Data Engineering**](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering) — Metadata-Driven Ingestion · PySpark · Delta Lake  
 🏗️ [**Microsoft Fabric — Medallion Architecture**](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric) — Bronze · Silver · Gold · Lakehouse  
 🔄 [**Microsoft Fabric — dbt Analytics Engineering**](https://github.com/s-suby/fabric-dbt) — dbt · SQL · Data Modelling  
