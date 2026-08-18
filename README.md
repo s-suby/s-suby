@@ -11,7 +11,6 @@ I like working with **data** and figuring out better ways to **move, transform, 
 ## 📊 Microsoft Power BI Projects
 📈 [**Microsoft Power BI — Analytics & Dashboard Portfolio**](https://github.com/s-suby/Microsoft-Power-BI) — Power BI · DAX · Data Modelling · Power Query · Business Intelligence
 
-Power BI · DAX · Data Modelling · Power Query · Business Intelligence
 ---
 ## 🚀 Microsoft Fabric Projects
 🏦 [**Microsoft Fabric — Retail Bank Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Semantic Model · Power BI  
