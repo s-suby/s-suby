@@ -8,8 +8,9 @@ I like working with **data** and figuring out better ways to **move, transform, 
 
 **Core Stack:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `dbt` · `Power BI` · `DAX` · `Tableau` · `Alteryx` · `Python`
  
-## 📊 Microsoft Power BI Portfolio
-## 📈 [Microsoft Power BI — Analytics & Dashboard Portfolio](https://github.com/s-suby/Microsoft-Power-BI)
+## 📊 Microsoft Power BI Projects
+📈 [**Microsoft Power BI — Analytics & Dashboard Portfolio**](https://github.com/s-suby/Microsoft-Power-BI) — Power BI · DAX · Data Modelling · Power Query · Business Intelligence
+
 Power BI · DAX · Data Modelling · Power Query · Business Intelligence
 ---
 ## 🚀 Microsoft Fabric Projects
