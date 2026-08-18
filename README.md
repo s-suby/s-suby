@@ -7,6 +7,28 @@ Analytics Engineer | Microsoft Fabric | PySpark | SQL | Delta Lake | dbt | Power
 I like working with **data** and figuring out better ways to **move, transform, and make sense of it**. I use tools like **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**, and this portfolio is where I share some of the **projects I've built along the way**.
 
 **Core Stack:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `dbt` · `Power BI` · `DAX` · `Tableau` · `Alteryx` · `Python`
+**Core Stack:** `Microsoft Fabric` · `PySpark` · `SQL` · `Delta Lake` · `dbt` · `Power BI` · `DAX` · `Tableau` · `Alteryx` · `Python`
+
+## 📊 Microsoft Power BI Portfolio
+
+📈 [**Microsoft Power BI — Analytics & Dashboard Portfolio**](https://github.com/s-suby/Microsoft-Power-BI) — Power BI · DAX · Data Modelling · Power Query · Business Intelligence
+
+A collection of **Power BI analytics projects** focused on transforming business data into interactive dashboards, KPI frameworks, and decision-ready insights.
+
+**Featured Dashboards:** Retail Banking Performance · Financial Performance · Retail Sales Analytics
+
+**Core Components:** Power BI · DAX · Power Query · Data Modelling · Star Schema · KPI Development · Time Intelligence · Interactive Reporting · Executive Dashboards
+
+**Focus:** Business Performance Analysis · Financial Analytics · Retail Analytics · Banking Analytics · Trend Analysis · Year-over-Year Comparison · Executive Reporting
+
+**Stack:** `Power BI` · `DAX` · `Power Query` · `Data Modelling` · `SQL`
+
+[Explore Power BI Portfolio](https://github.com/s-suby/Microsoft-Power-BI)
+
+---
+
+## 🚀 Microsoft Fabric Projects
+
 ## 🚀 Microsoft Fabric Projects
 🏦 [**Microsoft Fabric — Retail Bank Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Semantic Model · Power BI  
 ⚙️ [**Microsoft Fabric — End-to-End Data Engineering**](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering) — Metadata-Driven Ingestion · PySpark · Delta Lake  
