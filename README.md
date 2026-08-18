@@ -30,7 +30,7 @@ Power BI · DAX · Data Modelling · Power Query · Business Intelligence
 
 ## 🔍 Project Details
 
-### 🏦 Microsoft Fabric — BankPulse Analytics
+### 🏦 Microsoft Fabric — Retail Bank Analytics
 End-to-end **retail banking analytics solution** from source ingestion to executive Power BI reporting.
 
 **Main Components:** Fabric Data Pipelines · Fabric Lakehouse · Banking Data Ingestion · Customers, Accounts, Transactions & Loans · Semantic Model · Data Modelling · KPI Framework · Power BI Dashboard
