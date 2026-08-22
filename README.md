@@ -1,283 +1,234 @@
 <h1 align="left">Hi 👋, I'm Subramanian</h1>
 
 <h3 align="left">
-Data & Analytics Professional | Microsoft Fabric Data Engineering | Agentic AI & MCP | Analytics Engineering | Power BI
+Analytics Engineer | Microsoft Fabric | Agentic AI & MCP | PySpark | SQL | Delta Lake | dbt | Power BI | DAX | Python | Tableau | Alteryx
 </h3>
 
-I build **data engineering, analytics engineering, and AI-enabled data platform solutions** using the Microsoft data ecosystem.
+I like working with **data** and figuring out better ways to **move, transform, model, and make sense of it**. My work spans **data engineering, analytics engineering, business intelligence, and AI-enabled data platforms**, using technologies such as **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**.
 
-My portfolio focuses on **Microsoft Fabric Data Engineering, Lakehouse architecture, PySpark, Delta Lake, SQL, dbt, semantic modelling, Power BI**, and the emerging integration of **Agentic AI with enterprise data platforms through Model Context Protocol (MCP)**.
+More recently, I have been exploring **Agentic AI and Model Context Protocol (MCP)** — building projects where AI agents interact with **Microsoft Fabric and Power BI** through controlled tool-based workflows.
 
-Alongside traditional data engineering and analytics, I am exploring how **AI agents and LLMs can securely interact with Microsoft Fabric and Power BI**, using MCP for tool discovery, controlled platform operations, metadata access, and human-in-the-loop AI workflows.
-
-### 🔑 Core Stack
-
-`Microsoft Fabric` · `Data Engineering` · `Agentic AI` · `Model Context Protocol (MCP)` · `GitHub Copilot` · `PySpark` · `Apache Spark` · `SQL` · `Delta Lake` · `OneLake` · `Lakehouse` · `dbt` · `Power BI` · `DAX` · `Python` · `Fabric Data Pipelines` · `Microsoft Entra ID` · `Fabric REST APIs` · `Git` · `GitHub`
-
-**Analytics & Visualisation:** `Power BI` · `Tableau` · `Alteryx`
+**Core Stack:** `Microsoft Fabric` · `Agentic AI` · `Model Context Protocol (MCP)` · `PySpark` · `SQL` · `Delta Lake` · `OneLake` · `Lakehouse` · `dbt` · `Power BI` · `DAX` · `Python` · `Fabric Data Pipelines` · `Fabric REST APIs` · `Microsoft Entra ID` · `GitHub Copilot` · `Tableau` · `Alteryx`
 
 ---
 
 ## 🤖 Agentic AI & MCP Projects
 
-### 🤖 Microsoft Fabric — Agentic AI & MCP Data Engineering
+🤖 [**Microsoft Fabric MCP — Agentic AI & Data Engineering**](https://github.com/s-suby/AI-microsoft-fabric-mcp-portfolio) — Agentic AI · MCP · Microsoft Fabric · OneLake · Lakehouse · PySpark · Delta Lake · Fabric REST APIs · Microsoft Entra ID
 
-[**AI Engineering with Microsoft Fabric MCP**](https://github.com/s-suby/AI-microsoft-fabric-mcp-portfolio)
+This project explores how an **AI agent can interact with Microsoft Fabric through Model Context Protocol (MCP)**.
 
-Practical exploration of how an external **AI agent can interact with Microsoft Fabric through Model Context Protocol (MCP)**.
+The project compares **Local Microsoft Fabric MCP** and **Remote Microsoft Fabric Core MCP**, demonstrating AI-driven workspace and Lakehouse discovery, OneLake operations, Fabric platform operations, controlled writes, metadata inspection, Entra authentication, and human-in-the-loop verification.
 
-The project compares **Local Microsoft Fabric MCP** and **Remote Fabric Core MCP** architectures and demonstrates AI-driven tool selection, workspace and Lakehouse discovery, OneLake operations, Fabric platform operations, controlled writes, Microsoft Entra authentication, and human-in-the-loop verification.
+**AI Architecture:**  
+`User → GitHub Copilot Agent → MCP → Microsoft Fabric → OneLake / Fabric APIs → Result`
 
-**Architecture:**
-
-`Natural Language → GitHub Copilot Agent → MCP → Microsoft Fabric → OneLake / Fabric APIs → Structured Result`
-
-**Data Engineering Flow:**
-
-`AI Agent → MCP → OneLake CSV → Fabric Notebook → PySpark → Delta Lake → MCP Metadata Discovery`
-
-**Key Concepts:**
-
-`Agentic AI` · `MCP` · `LLM Tool Use` · `Microsoft Fabric` · `OneLake` · `Lakehouse` · `PySpark` · `Delta Lake` · `Fabric REST APIs` · `Microsoft Entra ID` · `Human-in-the-Loop AI`
+**Data Engineering Flow:**  
+`AI Agent → MCP → OneLake → Fabric Notebook → PySpark → Delta Lake → MCP Metadata Discovery`
 
 ---
 
-### 🧠 Power BI — Agentic AI & MCP Semantic Model Integration
+## 📊 Microsoft Power BI Projects
 
-[**Microsoft Power BI MCP Portfolio**](https://github.com/s-suby/Microsoft-Power-BI)
-
-Exploration of **AI-agent interaction with Power BI semantic models through MCP**, including model discovery, metadata inspection, DAX execution, and controlled semantic-model modification.
-
-The project demonstrates the architectural relationship between:
-
-`User → AI Agent → MCP → Power BI → Semantic Model → DAX / Metadata → Result`
-
-Key areas include **LLM tool selection, semantic-model metadata, DAX, controlled model operations, authentication, authorization, and Local vs Remote MCP architecture**.
+📈 [**Microsoft Power BI — Analytics & Dashboard Portfolio**](https://github.com/s-suby/Microsoft-Power-BI) — Power BI · DAX · Data Modelling · Power Query · Business Intelligence
 
 ---
 
-## 🚀 Microsoft Fabric Data Engineering Projects
+## 🚀 Microsoft Fabric Projects
 
-### ⚙️ Microsoft Fabric — End-to-End Data Engineering
+🏦 [**Microsoft Fabric — Retail Bank Analytics**](https://github.com/s-suby/Microsoft-Fabric-Powerbi) — Banking Analytics · Lakehouse · Semantic Model · Power BI
 
-[**Explore Project**](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
+⚙️ [**Microsoft Fabric — End-to-End Data Engineering**](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering) — Metadata-Driven Ingestion · PySpark · Delta Lake · Data Pipelines
 
-Production-style **metadata-driven ingestion framework** designed for reusable and scalable data processing.
+🏗️ [**Microsoft Fabric — Medallion Architecture**](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric) — Bronze · Silver · Gold · Lakehouse · PySpark · Delta Lake
 
-**Main Components:**  
-Metadata-Driven Ingestion · Parent-Child Pipelines · Dynamic Processing · Full & Incremental Loads · Watermarking · Data Validation · Error Handling · PySpark · Delta Lake
+🔄 [**Microsoft Fabric — dbt Analytics Engineering**](https://github.com/s-suby/fabric-dbt) — dbt · SQL · Data Modelling · Analytics Engineering
 
-**Architecture:**
-
-`Source → Metadata-Driven Pipelines → PySpark → Delta Lake`
-
-**Stack:**  
-`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Fabric Data Pipelines` · `Lakehouse`
-
----
-
-### 🏗️ Microsoft Fabric — Medallion Architecture
-
-[**Explore Project**](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
-
-End-to-end Lakehouse solution implementing the **Bronze → Silver → Gold** architecture pattern.
-
-**Main Components:**  
-Fabric Lakehouse · Bronze Layer · Silver Layer · Gold Layer · Data Ingestion · PySpark Transformations · Delta Lake · Data Quality · Analytics-Ready Datasets
-
-**Architecture:**
-
-`Source → Bronze → Silver → Gold → Analytics`
-
-**Stack:**  
-`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Lakehouse`
-
----
-
-### 🔄 Microsoft Fabric — dbt Analytics Engineering
-
-[**Explore Project**](https://github.com/s-suby/fabric-dbt)
-
-Analytics engineering solution combining **Microsoft Fabric and dbt** for modular, testable, and documented SQL transformations.
-
-**Main Components:**  
-dbt · SQL Transformations · Source Models · Staging Models · Transformation Models · Testing · Documentation · Power BI Integration
-
-**Architecture:**
-
-`Microsoft Fabric → dbt → Transformation → Analytical Models → Power BI`
-
-**Stack:**  
-`Microsoft Fabric` · `dbt` · `SQL` · `Power BI`
-
----
-
-### 🔀 Microsoft Fabric — Data Engineering Control Flow
-
-[**Explore Project**](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
-
-Practical implementation of **data pipeline orchestration and control-flow patterns** in Microsoft Fabric.
-
-**Main Components:**  
-Copy Data · Lookup · Get Metadata · Variables · Parameters · Dynamic Expressions · Activity Dependencies · Pipeline Orchestration
-
-**Architecture:**
-
-`Source → Fabric Pipeline Control Flow → Data Processing → Destination`
-
-**Stack:**  
-`Microsoft Fabric` · `Data Factory` · `Fabric Data Pipelines` · `ETL/ELT`
-
----
-
-### 🏦 Microsoft Fabric — Retail Bank Analytics
-
-[**Explore Project**](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
-
-End-to-end **retail banking analytics solution** covering ingestion, Lakehouse storage, semantic modelling, and executive reporting.
-
-**Main Components:**  
-Fabric Data Pipelines · Fabric Lakehouse · Banking Data Ingestion · Customers · Accounts · Transactions · Loans · Semantic Model · KPI Framework · Power BI
-
-**Architecture:**
-
-`Source → Fabric Pipeline → Lakehouse → Semantic Model → Power BI`
-
-**Stack:**  
-`Microsoft Fabric` · `Lakehouse` · `Fabric Data Pipelines` · `Power BI` · `DAX`
-
----
-
-## 📊 Power BI & Business Intelligence
-
-### 📈 Microsoft Power BI — Analytics & Dashboard Portfolio
-
-[**Explore Power BI Portfolio**](https://github.com/s-suby/Microsoft-Power-BI)
-
-Portfolio of Power BI solutions covering:
-
-`Power BI` · `DAX` · `Power Query` · `Semantic Models` · `Data Modelling` · `KPI Design` · `Business Intelligence` · `Dashboard Development`
+🔀 [**Microsoft Fabric — Data Engineering Control Flow**](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow) — Data Pipelines · Orchestration · Parameters · Dynamic Control Flow
 
 ---
 
 ## 🧰 Technology Stack
 
-**Data Engineering**  
+**Data Engineering:**  
 `Microsoft Fabric` · `PySpark` · `Apache Spark` · `SQL` · `Delta Lake` · `OneLake` · `Lakehouse`
 
-**Agentic AI & Enterprise AI Integration**  
+**Agentic AI & MCP:**  
 `Agentic AI` · `Model Context Protocol (MCP)` · `LLM Tool Use` · `GitHub Copilot` · `Fabric MCP` · `Power BI MCP` · `Human-in-the-Loop AI`
 
-**Analytics Engineering**  
-`dbt` · `SQL` · `Semantic Modelling` · `Data Testing` · `Documentation`
+**Transformation:**  
+`dbt` · `PySpark` · `SQL` · `Power Query` · `Alteryx`
 
-**Data Transformation**  
-`PySpark` · `SQL` · `dbt` · `Power Query` · `Alteryx`
-
-**Data Orchestration**  
+**Orchestration:**  
 `Fabric Data Pipelines` · `Metadata-Driven Pipelines` · `Incremental Loading` · `Parent-Child Pipelines`
 
-**Analytics & BI**  
-`Power BI` · `DAX` · `Tableau` · `Alteryx`
+**Analytics & BI:**  
+`Power BI` · `DAX` · `Semantic Models` · `Tableau` · `Alteryx`
 
-**Cloud Platform & Security**  
+**Platform & Security:**  
 `Microsoft Fabric` · `Microsoft Entra ID` · `Fabric REST APIs` · `RBAC`
 
-**Development**  
+**Development:**  
 `Python` · `SQL` · `Git` · `GitHub` · `Visual Studio Code`
 
 ---
 
-## 🎯 Engineering & AI Focus
+## 🔍 Project Details
 
-**Data Engineering**  
-Metadata-driven ingestion · Incremental loading · PySpark processing · Delta Lake · Reusable pipeline design · Lakehouse engineering
+### 🤖 Microsoft Fabric MCP — Agentic AI & Data Engineering
 
-**Data Architecture**  
-Microsoft Fabric · OneLake · Lakehouse · Medallion Architecture · Bronze/Silver/Gold · Analytics-ready datasets
+Practical implementation of **Agentic AI integration with Microsoft Fabric using Model Context Protocol (MCP)**.
 
-**Analytics Engineering**  
-dbt · SQL transformations · Data modelling · Testing · Documentation · Semantic models
+The project demonstrates how GitHub Copilot can act as an AI agent, select MCP tools from natural-language instructions, and interact with a real Microsoft Fabric environment.
 
-**Agentic AI Engineering**  
-AI agents · Model Context Protocol · Tool selection · Tool invocation · Structured results · Human-in-the-loop workflows
+Two MCP architectures were implemented:
 
-**Enterprise AI Integration**  
-Microsoft Fabric MCP · Power BI MCP · Microsoft Entra authentication · RBAC · Fabric REST APIs · Controlled AI operations
+```text
+LOCAL MCP
 
-**Business Intelligence**  
-Power BI · DAX · Semantic models · KPI frameworks · Tableau · Alteryx · Executive reporting
+GitHub Copilot
+      ↓
+VS Code MCP Client
+      ↓
+Local Fabric MCP
+      ↓
+OneLake / Fabric
+```
+
+```text
+REMOTE MCP
+
+GitHub Copilot
+      ↓
+VS Code MCP Client
+      ↓
+Remote Fabric Core MCP
+      ↓
+Fabric REST APIs
+      ↓
+Microsoft Fabric
+```
+
+**Main Components:** Agentic AI · Model Context Protocol · Local Fabric MCP · Remote Fabric Core MCP · OneLake · Lakehouse · Fabric REST APIs · Microsoft Entra ID · PySpark · Delta Lake · Human-in-the-Loop AI
+
+**Architecture:**  
+`Natural Language → AI Agent → MCP Tool Selection → Microsoft Fabric → Data / Platform Operation → Structured Result`
+
+**Stack:**  
+`Microsoft Fabric` · `Agentic AI` · `MCP` · `GitHub Copilot` · `OneLake` · `PySpark` · `Delta Lake` · `Fabric REST APIs` · `Microsoft Entra ID`
+
+[Explore Project](https://github.com/s-suby/AI-microsoft-fabric-mcp-portfolio)
 
 ---
 
-## 🧠 What I'm Exploring
+### 🏦 Microsoft Fabric — Retail Bank Analytics
 
-I am particularly interested in the convergence of:
+End-to-end **retail banking analytics solution** from source ingestion to executive Power BI reporting.
 
-```text
-Data Engineering
-       +
-Analytics Engineering
-       +
-Microsoft Fabric
-       +
-Agentic AI
-       +
-Model Context Protocol
-       ↓
-AI-Enabled Enterprise Data Platforms
-```
+**Main Components:** Fabric Data Pipelines · Fabric Lakehouse · Banking Data Ingestion · Customers, Accounts, Transactions & Loans · Semantic Model · Data Modelling · KPI Framework · Power BI Dashboard
 
-My recent projects explore an important question:
+**Architecture:**  
+`Source → Fabric Pipeline → Lakehouse → Semantic Model → Power BI`
 
-> **How can AI agents safely interact with enterprise data platforms without replacing the governance, security, APIs, and engineering runtimes that already exist?**
+**Stack:**  
+`Microsoft Fabric` · `Lakehouse` · `Data Pipelines` · `Power BI` · `DAX`
 
-The architecture I am exploring is:
+[Explore Project](https://github.com/s-suby/Microsoft-Fabric-Powerbi)
 
-```text
-User
-  ↓
-AI Agent / LLM
-  ↓
-Reasoning & Tool Selection
-  ↓
-Model Context Protocol
-  ↓
-Enterprise Data Platform
-  ↓
-Fabric / Power BI / OneLake
-  ↓
-Data & Metadata Operations
-  ↓
-Structured Result
-```
+---
+
+### ⚙️ Microsoft Fabric — End-to-End Data Engineering
+
+Production-style **metadata-driven ingestion framework** designed for reusable and scalable data processing.
+
+**Main Components:** Parent-Child Pipelines · Metadata-Driven Ingestion · Dynamic Processing · Full & Incremental Loads · Data Validation · Error Handling · PySpark · Delta Lake · Watermarking
+
+**Architecture:**  
+`Source → Metadata-Driven Pipelines → PySpark → Delta Lake`
+
+**Stack:**  
+`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Data Pipelines`
+
+[Explore Project](https://github.com/s-suby/microsoft-fabric-end-to-end-data-engineering)
+
+---
+
+### 🏗️ Microsoft Fabric — Medallion Architecture
+
+End-to-end Lakehouse solution implementing the **Bronze → Silver → Gold** architecture pattern.
+
+**Main Components:** Fabric Lakehouse · Bronze Layer · Silver Layer · Gold Layer · Data Ingestion · Data Transformation · PySpark · Delta Lake · Data Quality · Analytics-Ready Datasets
+
+**Architecture:**  
+`Source → Bronze → Silver → Gold → Analytics`
+
+**Stack:**  
+`Microsoft Fabric` · `PySpark` · `Delta Lake` · `Lakehouse`
+
+[Explore Project](https://github.com/s-suby/Medallion-Architecture-Using-Microsoft-Fabric)
+
+---
+
+### 🔄 Microsoft Fabric — dbt Analytics Engineering
+
+Analytics engineering solution combining **Microsoft Fabric and dbt** for modular and testable transformations.
+
+**Main Components:** dbt · SQL Transformations · Source Models · Staging Models · Transformation Models · Data Modelling · Testing · Documentation · Power BI Integration
+
+**Architecture:**  
+`Microsoft Fabric → dbt → Transformation → Data Models → Power BI`
+
+**Stack:**  
+`Microsoft Fabric` · `dbt` · `SQL` · `Power BI`
+
+[Explore Project](https://github.com/s-suby/fabric-dbt)
+
+---
+
+### 🔀 Microsoft Fabric — Data Engineering Control Flow
+
+Practical implementation of the **core orchestration patterns** used to build Microsoft Fabric data pipelines.
+
+**Main Components:** Copy Data · Lookup · Get Metadata · Variables · Parameters · Dynamic Expressions · Activity Dependencies · Pipeline Orchestration
+
+**Architecture:**  
+`Source → Pipeline Control Flow → Data Processing → Destination`
+
+**Stack:**  
+`Microsoft Fabric` · `Data Factory` · `Data Pipelines` · `ETL/ELT`
+
+[Explore Project](https://github.com/s-suby/microsoft-fabric-data-engineering-control-flow)
+
+---
+
+## 🎯 Engineering, Analytics & AI Focus
+
+**Data Engineering** — Metadata-driven ingestion · Incremental loading · PySpark processing · Delta Lake · OneLake · Reusable pipeline design
+
+**Data Architecture** — Microsoft Fabric · Fabric Lakehouse · Medallion Architecture · Bronze/Silver/Gold layers · Analytics-ready datasets
+
+**Analytics Engineering** — dbt · SQL transformations · Data testing · Documentation · Reusable analytical models
+
+**Agentic AI & MCP** — AI agents · LLM tool use · Model Context Protocol · Fabric MCP · Power BI MCP · Tool selection · Controlled operations
+
+**Enterprise AI Integration** — Microsoft Entra ID · Fabric REST APIs · RBAC · Human-in-the-loop AI · Authentication · Authorization
+
+**Data Modelling & BI** — Semantic models · KPI design · DAX · Power BI · Executive reporting · Business insights
+
+**Pipeline Orchestration** — Fabric Data Pipelines · Parameters · Metadata · Parent-child pipelines · Dynamic processing
+
+**Analytics & Visualisation** — Power BI · Tableau · Alteryx · Dashboard design · KPI visualisation
 
 ---
 
 ## 📌 Portfolio
 
-My projects collectively cover:
+My portfolio covers the complete data journey:
 
-```text
-Data Sources
-     ↓
-Ingestion
-     ↓
-Pipeline Orchestration
-     ↓
-OneLake / Lakehouse
-     ↓
-PySpark / SQL Transformation
-     ↓
-Delta Lake
-     ↓
-dbt / Analytics Engineering
-     ↓
-Semantic Models
-     ↓
-Power BI / Business Intelligence
-     ↓
-Agentic AI + MCP
-```
+`Ingestion → Orchestration → OneLake → Lakehouse → PySpark → Delta Lake → dbt → Data Modelling → Semantic Layer → Business Intelligence`
 
-Explore the repositories above for **architecture diagrams, Fabric pipelines, notebooks, PySpark code, SQL, dbt models, semantic models, MCP configurations, AI-agent workflows, screenshots, documentation, dashboards, and implementation evidence**.
+and extends that architecture into:
+
+`Natural Language → AI Agent → MCP → Enterprise Data Platform → Controlled Data / Platform Operations`
+
+Explore the repositories above for **architecture, pipelines, notebooks, PySpark, SQL, dbt models, semantic models, dashboards, MCP configurations, AI-agent workflows, screenshots, documentation, and source code**.
