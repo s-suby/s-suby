@@ -6,7 +6,7 @@
 
 I am a **Power BI and Data Analytics professional** with experience in **enterprise reporting and Model Risk analytics within financial services**. I enjoy working with data and finding better ways to **move, transform, model and turn it into meaningful business insights**.
 
-My experience spans **Power BI, DAX, SQL, semantic modelling, dimensional modelling and executive reporting**, complemented by hands-on development across **Microsoft Fabric, PySpark, Delta Lake, dbt, Python and modern data engineering**.
+My experience spans **Power BI, DAX , Tableau , SQL, semantic modelling, dimensional modelling and executive reporting**, complemented by hands-on development across **Microsoft Fabric, PySpark, Delta Lake, dbt, Python and modern data engineering**.
 
 More recently, I have also been exploring **Agentic AI and Model Context Protocol (MCP)**, building projects where AI agents interact with **Microsoft Fabric and Power BI** through controlled tool-based workflows.
 
