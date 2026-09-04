@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Subramanian</h1>
 
 <h3 align="left">
-Power BI & Microsoft Fabric | Analytics & Data Engineering | Model Risk | PySpark | SQL | dbt | Power BI | DAX | Python | Tableau | Alteryx
+Power BI & Microsoft Fabric | DAX  | Analytics & Data Engineering | PySpark | SQL | dbt | Python | Tableau | Alteryx
 </h3>
 
 I like working with **data** and figuring out better ways to **move, transform, model, and make sense of it**. My work spans **data engineering, analytics engineering, business intelligence, and AI-enabled data platforms**, using technologies such as **Microsoft Fabric, PySpark, SQL, Delta Lake, dbt, Power BI, Tableau, and Alteryx**.
